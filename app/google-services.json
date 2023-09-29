@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865157883486",
+    "project_id": "unicob-ad0d2",
+    "storage_bucket": "unicob-ad0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865157883486:android:ba8622c0986d21e58336cf",
+        "android_client_info": {
+          "package_name": "com.example.uni_cob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTCnubz4scRsx97lSsxnkAmgXWnaXwA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

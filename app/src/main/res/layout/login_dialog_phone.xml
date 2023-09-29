@@ -1,0 +1,13 @@
+<!-- res/layout/login_dialog.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="email"/>
+
+    <!-- 로그인 폼 구성 요소들을 이곳에 추가합니다. -->
+
+</LinearLayout>
